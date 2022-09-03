@@ -22,6 +22,7 @@ There were several recommended analyses mentioned in the @MavenAnalytics website
 
 The Datasets consists of two time points- Survey in 2020 and 2021. I considered the 2021 data as the most recent one to be appropriate to be compared with the context in 2022.
 I had to clean, rename the variables, organize the Data, and code it accordingly using Excel.
+
 For the 2021 Data, I worked on the dataset below-
 
 1. The dataset consisting of all the participants - 2021_Employee and Manager Data,
@@ -31,23 +32,23 @@ For the 2021 Data, I worked on the dataset below-
 ## Summary of the Results:
 
 Some interesting findings that I found from the Dataset is –
-* •	Most of the employees agree that they want to work 100% time being on Remote. Participants are not interested in hybrid option (If offered, they intend to spend less than 10% of their working hours on hybrid environment).
-* •	Participants are not interested to spend time for commuting and getting prepared for work (36% of the Participants are Couple with dependents and 76% live in Metro area).
-* •	The Participants don’t encourage the idea to be offered pay-cuts (68%) in return of remote work liberty. Those who support the idea agreed on 10% pay cut or less.
-* •	The most interesting finding is- 51.07% The managers agree that their employees work more in remote (i.e. they work at least 20+ % more on remote).
+* 	Most of the employees agree that they want to work 100% time being on Remote. Participants are not interested in hybrid option (If offered, they intend to spend less than 10% of their working hours on hybrid environment).
+* 	Participants are not interested to spend time for commuting and getting prepared for work (36% of the Participants are Couple with dependents and 76% live in Metro area).
+* 	The Participants don’t encourage the idea to be offered pay-cuts (68%) in return of remote work liberty. Those who support the idea agreed on 10% pay cut or less.
+* 	The most interesting finding is- 51.07% The managers agree that their employees work more on remote (i.e. they work at least 20+ % more on remote).
 
 
 ## Licensing/ Authors / Acknowledgements-
 
-* •	This is a solely unique project submitted for the assignment to ‘Write a blog post’ for my Udacity Data Science Nanodegree Certificate.
-* •	@MavenAnalytics has the Dataset published [here.](https://www.mavenanalytics.io/data-playground)
-* •	My medium blog can be found [here.](https://medium.com/@mahmudayasmin/what-does-the-managers-think-about-remote-work-96f953f668ff)
-* •	The Datasets and the python code can be found [here.](https://github.com/myasmin/Remote-Working-Survey.git)
-* •	The. ipynb file of the codes and visualizations can be seen [here.](https://drive.google.com/file/d/19TQEBYxGH4KjAjCLIISIiydSRs6XUfn3/view?usp=sharing)
-* •	Tools I used:
+* 	This is a solely unique project submitted for the assignment to ‘Write a blog post’ for my Udacity Data Science Nanodegree Certificate.
+* 	@MavenAnalytics has the Dataset published [here.](https://www.mavenanalytics.io/data-playground)
+* 	My medium blog can be found [here.](https://medium.com/@mahmudayasmin/what-does-the-managers-think-about-remote-work-96f953f668ff)
+* 	The Datasets and the python code can be found [here.](https://github.com/myasmin/Remote-Working-Survey.git)
+* 	The. ipynb file of the codes and visualizations can be seen [here.](https://drive.google.com/file/d/19TQEBYxGH4KjAjCLIISIiydSRs6XUfn3/view?usp=sharing)
+* 	Tools I used:
 * Python, Jupyter Notebook, Google Colab, MS Excel.
 * Following python libraries I used for this project-
-*   NumPy,
-*   Pandas,
-*   Matplotlib,
-*   Plotly Express.
+*   • NumPy,
+*   • Pandas,
+*   • Matplotlib,
+*   • Plotly Express.
