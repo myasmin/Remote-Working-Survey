@@ -13,10 +13,10 @@ This is an observational study. The findings that I found are quite interesting 
 
 There were several recommended analyses mentioned in the @MavenAnalytics website while publishing the data. Such as-
 
-* •	How has the COVID pandemic impacted the amount of work done remotely? What can be expected post-pandemic?
-* •	Does working remotely positively impact productivity? Are there any other benefits?
-* •	How does an employees use of time differ when working remotely vs on-site?
-* •	What are the biggest barriers to overcome if remote work becomes the norm in the future?
+* 	How has the COVID pandemic impacted the amount of work done remotely? What can be expected post-pandemic?
+* 	Does working remotely positively impact productivity? Are there any other benefits?
+* 	How does an employees use of time differ when working remotely vs on-site?
+* 	What are the biggest barriers to overcome if remote work becomes the norm in the future?
 
 ## About the Data:
 
@@ -47,7 +47,7 @@ Some interesting findings that I found from the Dataset is –
 * •	Tools I used:
 * Python, Jupyter Notebook, Google Colab, MS Excel.
 * Following python libraries I used for this project-
-*  # NumPy,
-*  # Pandas,
-*  # Matplotlib,
-*  # Plotly Express.
+*   NumPy,
+*   Pandas,
+*   Matplotlib,
+*   Plotly Express.
