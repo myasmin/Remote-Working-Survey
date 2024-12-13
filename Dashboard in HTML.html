@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remote Working Survey Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+        .header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .section h2 {
+            color: #0073e6;
+        }
+        .link {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        .link:hover {
+            text-decoration: underline;
+        }
+        .iframe-container {
+            position: relative;
+            overflow: hidden;
+            padding-top: 56.25%;
+        }
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Dashboard for Remote Working Survey Analysis</h1>
+    </div>
+    <div class="container">
+        <!-- Introduction Section -->
+        <div class="section">
+            <h2>Introduction</h2>
+            <p>
+                Welcome to the dashboard for the <strong>Remote Working Survey</strong> analysis. This survey, conducted by NSW Treasury and published by Maven Analytics, explores participants' perspectives on remote, onsite, and hybrid working environments during the pandemic. 
+            </p>
+            <p>
+                Access the full analysis on GitHub: <a class="link" href="https://github.com/myasmin/Remote-Working-Survey/blob/main/Analysis_on__Remote_Working_Survey__Data_Updated.ipynb" target="_blank">Remote Working Survey Analysis</a>.
+            </p>
+        </div>
+
+        <!-- Highlights Section -->
+        <div class="section">
+            <h2>Highlights</h2>
+            <ul>
+                <li>Comparison of Remote, Onsite, and Hybrid work environments.</li>
+                <li>Insights into demographic and professional characteristics of participants.</li>
+                <li>Data visualizations of participants' preferences and time management expectations.</li>
+            </ul>
+        </div>
+
+        <!-- Embedded Notebook Section -->
+        <div class="section">
+            <h2>Interactive Notebook</h2>
+            <p>You can view the analysis directly below:</p>
+            <div class="iframe-container">
+                <iframe src="https://nbviewer.org/github/myasmin/Remote-Working-Survey/blob/main/Analysis_on__Remote_Working_Survey__Data_Updated.ipynb" frameborder="0"></iframe>
+            </div>
+        </div>
+
+        <!-- Resources Section -->
+        <div class="section">
+            <h2>Additional Resources</h2>
+            <ul>
+                <li><a class="link" href="https://mavenanalytics.io/data-playground?page=2&pageSize=5" target="_blank">Maven Analytics Data Playground</a></li>
+                <li><a class="link" href="https://github.com/myasmin/Remote-Working-Survey" target="_blank">GitHub Repository</a></li>
+                <li><a class="link" href="https://mahmudayasmin.medium.com/what-does-the-managers-think-about-remote-work-96f953f668ff" target="_blank">Medium Blog Post</a></li>
+            </ul>
+        </div>
+
+        <!-- Footer -->
+        <div class="section" style="text-align: center;">
+            <p>&copy; 2024 Remote Working Survey Dashboard. Created by Yasmin.</p>
+        </div>
+    </div>
+</body>
+</html>
