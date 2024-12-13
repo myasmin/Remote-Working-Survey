@@ -44,7 +44,7 @@ Some interesting findings that I found from the Dataset is –
 * 	@MavenAnalytics has the Dataset published [here.](https://www.mavenanalytics.io/data-playground)
 * 	My medium blog can be found [here.](https://medium.com/@mahmudayasmin/what-does-the-managers-think-about-remote-work-96f953f668ff)
 * 	The Datasets and the python code can be found [here.](https://github.com/myasmin/Remote-Working-Survey.git)
-* 	The. ipynb file of the codes and visualizations can be seen [here.](https://drive.google.com/file/d/19TQEBYxGH4KjAjCLIISIiydSRs6XUfn3/view?usp=sharing)
+* 	The. ipynb file of the codes and visualizations can be seen [here.]([https://drive.google.com/file/d/19TQEBYxGH4KjAjCLIISIiydSRs6XUfn3/view?usp=sharing](https://github.com/myasmin/Remote-Working-Survey/blob/main/Analysis_on__Remote_Working_Survey__Data_Updated.ipynb))
 * 	Tools I used:
 * Python, Jupyter Notebook, Google Colab, MS Excel.
 * Following python libraries I used for this project-
